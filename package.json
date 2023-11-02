@@ -1,0 +1,21 @@
+{
+    "name": "hono-on-headers",
+    "version": "0.2.1",
+    "description": "Provide room for logic when Hono begins writing response headers",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/crossunit/hono-on-headers.git"
+    },
+    "keywords": [
+        "bun",
+        "hono",
+        "headers"
+    ],
+    "author": "crossunit",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/crossunit/hono-on-headers/issues"
+    },
+    "homepage": "https://github.com/crossunit/hono-on-headers#readme"
+}
