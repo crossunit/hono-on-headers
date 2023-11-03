@@ -50,5 +50,8 @@ This package is currently functional but not tested enough for me to not have a 
 
 Open an issue if anything comes up or send me a message on Discord `AC#4155`
 
+## Elysia JS users
+If you're using Elysia JS, just latch into the native Elysia `onResponse` api and provide a callback with your logic, look [here](https://github.com/elysiajs/elysia/blob/82f49cdff1b8c1de7ef7a1ecd06d6c97111a0f80/src/index.ts#L601).  
+
 ## License
 [MIT](LICENSE)
